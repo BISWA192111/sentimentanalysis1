@@ -1,0 +1,7 @@
+body { background: #f8f9fa; }
+.container { max-width: 800px; margin-top: 40px; }
+.result-card { margin-bottom: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.07); border-radius: 10px; }
+.plot-img { max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 1rem; }
+pre { background: #eee; padding: 10px; border-radius: 6px; font-size: 0.95em; }
+.card-title { color: #0d6efd; }
+.list-group-item strong { color: #495057; } 
